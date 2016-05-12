@@ -4,7 +4,7 @@ title:  "A list of questions"
 date:   2016-05-09
 ---
 
-Here is a set of issues that I would like to understand better -  a sort of agenda for future posts.
+Here is a set of issues that I would like to understand better - a sort of agenda.
 
 ### Parallel computation.
 Large brains consist of a vast number of cells which may be considered the individual processing units. To support scaleability, resource usage per processing component (eg. energy usage, wiring length) should remain constant or grow at most logarithmically with the number of components. Similarly running times should remain constant or grow logarithmically. These limitations describe what we shall refer to as the class of scaleable or massively parallel computations.

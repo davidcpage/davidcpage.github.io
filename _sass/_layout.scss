@@ -116,12 +116,13 @@ body {
     background-image: url('../assets/reflection.jpg');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 80px;
+    height: 100px;
 }
 
 .footer-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
+    color: $grey-color-dark;
 }
 
 .contact-list,
